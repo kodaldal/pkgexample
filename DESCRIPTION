@@ -1,11 +1,11 @@
-Package: RTHON2020
-Title: What the Package Does (One Line, Title Case)
+Package: pkgexample
+Title: SKKU biohrs Example
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Jinseob Kim",
-           family = "Kim",
+    person(given = "Eunseob Ko",
+           family = "Ko,
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "kodaldal@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
